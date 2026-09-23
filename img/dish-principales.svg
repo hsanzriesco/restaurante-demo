@@ -1,0 +1,17 @@
+<svg viewBox="0 0 420 480" xmlns="http://www.w3.org/2000/svg">
+<rect width="420" height="480" fill="#f1e8d9"/>
+<circle cx="210" cy="245" r="150" fill="#fffaf1" stroke="#6b4938" stroke-width="1.5"/>
+<circle cx="210" cy="245" r="112" fill="none" stroke="#d5c5b2" stroke-width="1.2"/>
+<path d="M150 245c0-20 30-34 62-34s60 14 60 34-28 32-60 32-62-12-62-32z" fill="none" stroke="#6b4938" stroke-width="1.8"/>
+<path d="M150 245c14-10 34-16 62-16s48 6 62 16" fill="none" stroke="#c9b9a2" stroke-width="1"/>
+<path d="M150 245c14 10 34 16 62 16s48-6 62-16" fill="none" stroke="#c9b9a2" stroke-width="1"/>
+<path d="M272 245c10-6 18-2 16 8-2 8-14 10-20 2" fill="none" stroke="#4f5733" stroke-width="1.6"/>
+<g stroke="#3b2419" stroke-width="1.8" stroke-linecap="round">
+<line x1="130" y1="320" x2="122" y2="380"/>
+<line x1="138" y1="320" x2="132" y2="380"/>
+<line x1="290" y1="320" x2="282" y2="380"/>
+<path d="M290 320c9 2 13 11 7 18-3 4-9 6-15 5"/>
+</g>
+<circle cx="245" cy="235" r="9" fill="#e2b03b" opacity=".85"/>
+<text x="210" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="3" fill="#75685d">PRINCIPALES</text>
+</svg>
